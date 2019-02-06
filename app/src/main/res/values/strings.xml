@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recipe Puppy</string>
+    <string name="second_activity">Recipes</string>
+</resources>
